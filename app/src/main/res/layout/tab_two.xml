@@ -10,6 +10,12 @@
         android:textSize="44sp"
         android:textColor="@color/colorPrimaryDark"
         />
+    <Spinner
+        android:id="@+id/coin_spinner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"/>
 
 
 </RelativeLayout>
